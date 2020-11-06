@@ -1,0 +1,3 @@
+[2020-11-06CET: 05:29:19pm] Success: POST {"Counter":"3","X-RANDOM":"igrijd9p"}
+[2020-11-06CET: 05:29:34pm] Success: POST {"Counter":"3","X-RANDOM":"igrijd9p"}
+[2020-11-06CET: 05:29:39pm] Success: POST {"Counter":"3","X-RANDOM":"igrijd9p"}

@@ -1,4 +1,4 @@
-# test_today
+# Sorting simple
 
 Untuk soal Sorting ada localhost/test atau di application/views/test/test_index.php
 
